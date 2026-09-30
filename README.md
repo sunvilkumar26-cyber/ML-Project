@@ -7,3 +7,4 @@ Pandas
 Scikit_Learn
 MatplotLib
 Seaborn
+Joblib
