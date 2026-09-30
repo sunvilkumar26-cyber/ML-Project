@@ -1,10 +1,10 @@
 #Linear Regression Using Machine Learning
-The gole of the project is to pridict house price in a region in Taiwan.
+The gole of the project is to pridict house price in a region in Taiwan. **R^2**
 
 Tooles Used 
 Python
 Pandas
 Scikit_Learn
-MatplotLib
+MatplotLib 
 Seaborn
 Pickle
